@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "wordle_yz4661"
+version = "0.1.0"
+description = "wordle pkg for hw07"
+authors = ["Evan Zhou"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
