@@ -1,9 +1,4 @@
-from wordle_yz4661 import (
-    validate_guess,
-    check_guess,
-    is_valid_word,
-    calculate_game_score
-)
+from wordle_yz4661.wordle_yz4661 import validate_guess, check_guess
 
 import pytest
 
